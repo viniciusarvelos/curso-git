@@ -6,9 +6,10 @@ namespace TestProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("COMMIT 01");
-            Console.WriteLine("COMMIT 02");
-            Console.WriteLine("COMMIT 03");
+            Console.WriteLine("Hello World");
+            Console.WriteLine("How you doing today?");
+            Console.WriteLine("Have a nice day");
+  
         }
     }
 }
